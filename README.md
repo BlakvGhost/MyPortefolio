@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1>username-blakvghost.com</h1>
-<p>My personal portfolio website</p>
+<p>My personal portfolio website managed by <a href="https://ferraydigitalsolutions.bj">Ferray Digital Solutions</a></p>
 </div>
 
 # Tech Stack
